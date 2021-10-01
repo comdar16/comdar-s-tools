@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BeKbbZGOckFWCNvvMTw3kMDQQI4/p/LbwEf6mRoE6bQzlNpu1V9HjhnZ5qJA8LjHbL1n33lZTLhwA2bYcGtXiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\woshi\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\COMDAR\\COMDAR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\woshi\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
